@@ -6,7 +6,11 @@
 
 # Hola mundo!
 
-## Juan Pedro Llamosas - UNA - Artes Multimediales - 2022
+## Juan Pedro Llamosas
+
+## UNA - Artes Multimediales - 2022
+
+### Buenos Aires - Argentina
 
 <!---
 JuanLlamosas/JuanLlamosas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
