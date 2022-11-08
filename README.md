@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @JuanLlamosas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi! I’m @JuanLlamosas
 
-# Hola mundo!
-
-## Juan Pedro Llamosas
 
 ## UNA - Artes Multimediales - 2022
 
